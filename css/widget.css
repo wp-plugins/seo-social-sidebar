@@ -1,0 +1,156 @@
+.widget-area > ul.bxslider {
+margin: 0 !important;
+}
+
+/* Facebook */
+.facebookBox {
+  padding: 10px;
+  display: block;
+/*  width: 100% !important;*/
+/*  margin-left: -20px !important;*/
+/*  background: #4c66a4;*/
+}
+
+.facebookBox .facebook_page-avatar {
+  display: block;
+  clear: both !important;
+}
+
+.facebookBox .fbf_desc {
+  display: block;
+  font-size: 14px;
+  clear: both;
+  margin: 5px 0;
+/*
+  font: 12px arial, Times New Roman;
+  color: #fff;
+*/
+}
+
+.facebookBox .fbf_desc a img {
+  height: auto !important;
+}
+
+.facebookBox .fbf_desc a {
+  font-weight: bold;
+/*  color: #FFF;*/
+}
+.facebookBox .fbf_desc a:hover {
+  text-decoration: none;
+}
+
+.facebookBox iframe {
+/*  color: #FFF;*/
+}
+
+
+.twitterBox {
+  padding: 10px;
+  display: block;
+/*  background: #2DC3F3;*/
+}
+
+.twitterBox .tweetContent{
+  display: block;
+  clear: both;
+  font-size: 14px;
+/*  font-weight: bold;*/
+/*  color: #fff;*/
+  margin-bottom: 10px;
+}
+
+.twitterBox .tweetDate, .twitterBox .tweetDate a {
+  display: block;
+  clear: both;
+  color: #fff !important;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.twitterBox .tweetOption {
+  display: block;
+  clear: both;
+  margin-bottom: 10px;
+  border-top: 1px solid rgba(255,255,255,0.4);
+  padding-top: 10px;
+}
+
+.twitterBox .tweetOption a{
+  display: inline-block;
+  color: #0099cc;
+  font-size: 12px;
+  text-decoration: none;
+  font-weight: bold;
+  background: #9FECFE;
+  padding: 0 10px;
+  margin-right: 5px;
+  line-height: 20px;
+  border-radius: 4px;
+}
+
+.twitterBox .tweetOption a:hover {
+  background: #23AFDA;
+  color: #fff;
+}
+
+.testimonialBox {
+  display: block;
+/*  background: #54C5CD;*/
+  padding: 10px;
+}
+
+.testimonialBox .message{
+  display: block;
+/*  background: #fff;*/
+  padding: 10px;
+  font-size: 14px;
+}
+
+.testimonialBox .email{
+  text-align: right;
+  display: block;
+/*  background: #9EDEE3;*/
+  padding: 10px;
+  padding-bottom: 0px;
+  margin-bottom: -5px !important;
+  font-size: 12px;
+/*  color: #42a1ab;*/
+}
+.testimonialBox .fullname{
+  text-align: right;
+  display: block;
+/*  background: #9EDEE3;*/
+  padding: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 10px;
+/*  color: #fff;*/
+}
+
+.customText {
+  padding: 10px;
+/*  background: #F1684B;*/
+  font-size: 14px;
+/*  color: #fff;*/
+  line-height: 18px;
+}
+
+.customText strong{
+/*  color: #fff;*/
+  font-weight: bold;
+}
+
+.customText a{
+  text-decoration: underline;
+/*  color: #fff;*/
+}
+
+.customText a:hover{
+  text-decoration: none;
+/*  color: #fff;*/
+}
+
+.facebook_page-avatar img{width:40px;display:inline-block;}
+.facebook_page-avatar{display: inline-block;float:left;padding-right:10px;}
+.bx-default-pager{display: none;}
