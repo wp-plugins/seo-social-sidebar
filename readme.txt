@@ -25,6 +25,6 @@ What do you support
 What does it cost
 
 *    Twitter & Custom Text are always free
-*   £5 upgrade to release premium features
+*   &pound 5 upgrade to release premium features
 == Changelog ==
 support for WP 3.9.1
