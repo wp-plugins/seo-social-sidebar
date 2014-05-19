@@ -1,4 +1,4 @@
-=== seo social sidebar ===
+=== SEO SOCIAL SIDEBAR ===
 Contributors: pigeonhut,rajiv-jyasha 
 Tags: social,testimonials,widget,sidebar,facebook widget
 Requires at least: 3.5
