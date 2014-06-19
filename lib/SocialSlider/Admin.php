@@ -88,7 +88,7 @@ class SocialSlider_Admin {
            $options[] = $data;
            update_option(SocialSlider::OPTION_KEY.'_customtext', $options);
            $this->addMessage("Custom text is added successfully");
-           $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=social-media-slider/socialslider.php-customtext");
+           $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=seo-social-sidebar/socialslider.php-customtext");
 
         }
         $queryArgs = array(
@@ -109,7 +109,7 @@ class SocialSlider_Admin {
             $options[$_POST['id']] = $data;
             update_option(SocialSlider::OPTION_KEY.'_customtext', $options);
             $this->addMessage("Custom text is updated successfully");
-            $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=social-media-slider/socialslider.php-customtext");
+            $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=seo-social-sidebar/socialslider.php-customtext");
         }
         $queryArgs = array(
             'page' => plugin_basename(SocialSlider::FILE.'-customtext&action=edit'),
@@ -130,7 +130,7 @@ class SocialSlider_Admin {
         unset($a[$id]);
         update_option(SocialSlider::OPTION_KEY.'_customtext', $a);
         $this->addMessage('Custom text is deleted successfully');
-        $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=social-media-slider/socialslider.php-customtext");
+        $this->redirectUrl(get_bloginfo('wpurl')."/wp-admin/admin.php?page=seo-social-sidebar/socialslider.php-customtext");
     }
 
 
