@@ -2,8 +2,8 @@
 Contributors: pigeonhut,rajiv-jyasha 
 Tags: social,testimonials,widget,sidebar,facebook widget
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 3.9.1
+Tested up to: 4.1
+Stable tag: 4.0
 
 Single plugin for social media - great way of displaying all your social feeds in a single position, using transitions between networks
 
@@ -27,4 +27,4 @@ What does it cost
 *    Twitter & Custom Text are always free
 *   &pound 5 upgrade to release premium features
 == Changelog ==
-support for WP 3.9.1
+support for WP 4.1
