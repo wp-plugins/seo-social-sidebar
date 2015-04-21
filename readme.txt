@@ -2,7 +2,7 @@
 Contributors: pigeonhut,rajiv-jyasha 
 Tags: social,testimonials,widget,sidebar,facebook widget
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 4.0
 
 Single plugin for social media - great way of displaying all your social feeds in a single position, using transitions between networks
